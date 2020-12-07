@@ -1,0 +1,11 @@
+.stylus-bg{
+    background-image: url("https://cosmosmagazine.com/wp-content/uploads/2020/02/190218-mount-full-1440x810.jpg");
+    min-height: 60vh;
+    background-size: cover;
+}
+
+.map-section{
+    background-image: url("91848.png");
+    min-height: 60vh;
+    background-size: cover;
+}
